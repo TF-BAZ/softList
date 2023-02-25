@@ -1,0 +1,125 @@
+VPN		喵帕斯，魅影，梦迪，几鸡
+几鸡https://ji-ao.pw/user?ran=0.9079722193230215
+
+chrome插件：
+	vimium			脱离鼠标操作浏览器
+	google翻译		翻译
+	ImTranslator	翻译
+	New Tab Redirect重定向新标签页
+	momentum		新标签页
+	onetab			接管网页，节省内存
+	Octotree		github树状浏览
+	adblock plus	屏蔽网页广告
+
+https://plugins.zhile.io		ide-eval-reset		jetbrain系列激活
+
+sandboxie:
+NAME: 鹏 周
+DATE: 19.12.2022
+TYPE: PERSONAL-SMALL
+SOFTWARE: Sandboxie-Plus
+UPDATEKEY: 1F095CC0B599636629BF52EDA3B097FF
+SIGNATURE: R3cprcNbdvjYgi5ZxXUT5NG5qhHI7pQwMlz5CfzZAfs73pvHWhmUUiyZC9Yy0w+ACj2TSOSrmG7qLirOT6q5Vw==
+
+
+MindManger        思维导图软件。可导出pdf
+
+WORKRAVE		  可设置定时休息并附带保健操的软件
+
+Win10 Style Builder  制作Windows10的主题的软件，简称WSB。同样的，有Win7 Style Builder....
+
+CPU-Z             查看电脑基本硬件信息
+CAM				  查看电脑各硬件占用率及一般信息
+Hdtune            硬盘信息（硬盘本身的S.M.A.R.T信息），以及健康状态、温度等。
+	  1.大多数硬盘的平均无故障时间（MTBF）（09）一般在30000小时以上，有些高端产品可达120万小时	  
+diskgenius        硬盘管理工具。可修复硬盘、设置分区。
+     逻辑坏道
+     物理坏道
+DD FOR WINDOWS    硬盘操作软件。可进行文件操作等。原本是在linux上的dd
+MemTest           内存检测软件
+spacesniffer	  以图形式方法显示文件结构、占用
+traymgr			  托盘程序管理
+glasswire		  网络监管器
+regshot			  定位一些注册表内容
+OpenArk64		  可以查看电脑注册的快捷键
+
+
+launchy			  快捷键搜索程序并启动
+utools
+ReMapKey          更改键盘按键。如将alt和ctrl互换
+RainMeter         桌面美化工具
+upupoo			  动态桌面等各种功能
+starlsback		  任务栏美化工具
+trafficMonitor	  任务栏显示内存，cpu，网络占用情况统计
+launchy			  键盘式打开软件的软件。alt+space
+CLOVER            有标签页的文件夹管理器
+我的电脑uwp		  在windows商城有，比较好看
+Total Commander	  推荐。资源管理器。多标签多窗口。自定义丰富度极高，插件多
+Free Commander	  资源管理器。多标签多窗口。自定义丰富度高，插件多。缺点：64bit的要捐款下载
+Q-dir			  资源管理器。多标签多窗口。自定义丰富度没有FC和TC高
+icochange         修改磁盘图标
+
+
+
+P2PSearchers      P2P搜索器，可用于搜种子
+qbittorrent			种子下载器，记得设置track
+百度云盘
+115云盘
+360云盘
+冰点文库下载器		免积分直接下载百度文库 豆丁 丁香等网站文档的软件
+Bandizip          一流的压缩软件，可不解压连续看图。Bandisoft公司     官网：https://www.bandisoft.com/bandizip/cn/
+videoMinimizer		压缩视频，可压缩到非常小。同公司下有款快速剪视频的软件
+webzip			  下载整个网页的软件
+
+
+balabolka         文本转语音（TTS）软件。TTS库，如： neospeech.com
+OCR               图像转文字软件
+waifu2x           
+MorphVOXPro       变声器
+visual novel reader     程序实时翻译软件，简称vnr。见http://tieba.baidu.com/p/2294187617
+
+
+cmder			  比较好用的cmd
+finalshell		  ssh通信远程主机
+github            1.开源  2.云存储代码  官网github.com   可以再其中找到许多有用的程序、库之类的，且大部分开源免费。如搜TTS，可找到开源的TTS库
+Notepad++         最全面的文本编辑器。
+ditto			  剪贴板
+Topora			  markdown编辑器，比较好看。
+UltraEdit             16位编辑器。看16位文件的文本模式的功能在notepad+上可以通过安装插件Hex-Editor实现
+GB2UTF8           “GBK文件” 转 “UTF文件”；“UTF文件” 转 “GBK文件”
+crossover         兼容软件，可在Mac/linux上运行windows程序
+UltralIso         光盘映像文件（iso）工具。可用于制作 系统盘 等。同行有powerIso，但原理略不同
+Virtualbox        开源虚拟机软件。可以在大多系统系运行（win/linux/Mac）
+Vmware            1.Workstation版 收费虚拟机软件。世界公认最好虚拟机软件  2.Player版 Workstation的精简版      官网：http://www.vmware.com/cn/products/player/overview.html
+sandboxie		  兼容win10的沙箱
+
+
+闪蝠			  app。可接网络工程外包项目的部分工作，工作量小，可当零花钱
+
+
+MASM              汇编编译器
+DosBox            模拟原始win32 Dos。可以用于调试汇编程序
+
+PEID              脱壳软件
+010Editor         16位文本编辑器
+cheatengine		  简单的运行中程序数据修改器
+
+Visual Basic      微软的编译器。主要用于C++/C#，额外有许多实用功能。其C++编译方式略微不同于GC++
+DEV C++           GCC/GC++编译器。轻小简便。
+
+Eclipse           常做java编译器
+
+lua for windows   lua的常用编译器
+
+
+
+Aviutl            简便的视频剪辑器。从“教练我想学”得来的
+potplayer         音频播放器。特点：简洁，快速
+Ulead Gif Animator gif编辑器
+屏幕录像大师	  额外功能：转换exe为视频格式
+photoscissors	  抠图软件
+
+sumatrapdf		  好用简洁小巧的pdf等电子书阅读器
+
+
+
